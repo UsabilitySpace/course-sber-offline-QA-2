@@ -1,0 +1,16 @@
+com\baeldung\dirtiescontext\User.class
+com\baeldung\controller\parameterized\EmployeeRoleController.class
+com\baeldung\overrideproperties\Application.class
+com\baeldung\testpropertysource\ClassUsingProperty.class
+com\baeldung\dirtiescontext\SpringDataRestApplication.class
+com\baeldung\mockito\repository\User.class
+com\baeldung\mockito\repository\UserRepository.class
+com\baeldung\reflectiontestutils\repository\HRService.class
+com\baeldung\config\ScheduledConfig.class
+com\baeldung\config\WebConfig.class
+com\baeldung\reflectiontestutils\repository\Employee.class
+com\baeldung\scheduled\Counter.class
+com\baeldung\controller\parameterized\EmployeeRoleController$Role.class
+com\baeldung\dirtiescontext\UserCache.class
+com\baeldung\overrideproperties\resolver\PropertySourceResolver.class
+com\baeldung\reflectiontestutils\repository\EmployeeService.class
