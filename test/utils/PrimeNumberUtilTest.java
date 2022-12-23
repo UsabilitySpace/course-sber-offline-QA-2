@@ -45,7 +45,7 @@ public class PrimeNumberUtilTest {
 
     // This test will run 5 times
     @Test
-    public void testPrimeNumberChecker() {
+    public void primeNumberCheckerTest() {
         System.out.println("Parameterized Number is : " + inputNumber + " ; expected result is : " + expectedResult);
         assertEquals(expectedResult,
                 primeNumberUtil.validate(inputNumber));

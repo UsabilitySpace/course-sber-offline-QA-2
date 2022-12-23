@@ -1,4 +1,4 @@
-import controller.TestEmployeeLogic;
+import controller.EmployeeLogicTest;
 import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;
 import org.junit.runner.notification.Failure;
@@ -25,7 +25,7 @@ public class TestRunner {
         // run tests with TestSuite
         System.out.println("*** Run tests with TestSuite ***");
         TestSuite suite = new TestSuite(MessageUtilTest.class, TestAssertions.class,
-                TestResultTest.class, TestEmployeeLogic.class);
+                TestResultTest.class, EmployeeLogicTest.class);
         suite.addTestSuite(TestCaseTest.class);
 
         TestResult res = new TestResult();
